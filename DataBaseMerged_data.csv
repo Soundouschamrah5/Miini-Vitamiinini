@@ -1,0 +1,86 @@
+,ProductCode,ProductName,ProductPrice,NumberOfCapsules,TypeofVitamin,IU,Market,Age_cat,gender,defficiency,IU_needed
+0,1,Lysi D3-Vitamiini öljykapseli 25 mcg,12.15,180,D3,1000,SMarket,1.0,F,Y,5000.0
+1,2,Rainbow D3-vitamiini 50μg mansikan- ja vadelmanmakuinen,2.63,120,D3,2000,SMarket,1.0,M,N,400.0
+2,3,Rainbow 66g D-vitamiinitabletti 25µg,2.75,120,D3,1000,SMarket,1.0,M,N,400.0
+3,4,Rainbow D-vitamiinilisä 10μg,2.39,120,D3,400,SMarket,1.0,M,N,400.0
+4,5,Moomin Xylitol-Strawberry D-vitamiini 10µg ,4.89,100,D,400,SMarket,1.0,F,N,400.0
+5,6,Moomin Xylitol-Orange D-vitamiini 10µg ,4.89,100,D,400,SMarket,2.0,M,N,600.0
+6,7,Tolonen D-vitamiini 100µg,5.75,60,D,4000,SMarket,2.0,M,N,600.0
+7,8,Bioteekin Teho D-vitamiini ravintolisä,9.3,150,D,1000,SMarket,2.0,F,N,600.0
+8,9,Vitatabs D 100 passion D3-vitamiinitabletti,6.95,120,D3,4000,SMarket,2.0,F,N,600.0
+9,10,Puhdistamo Super D-vitamiini 100 µq,10.95,120,D,4000,SMarket,2.0,F,N,600.0
+10,11,Tolonen D-vitamiini 50µg,3.95,60,D,2000,SMarket,2.0,F,Y,5000.0
+11,12,Sana-sol Vitanallet D-vitamiini 10µg ,9.89,60,D,400,SMarket,2.0,F,Y,5000.0
+12,13,Puhdistamo Super D-vitamiini 50 µg,9.25,60,D,2000,SMarket,2.0,F,Y,5000.0
+13,14,Vida D-vitamiinivalmiste D-vitamiini 50 µg ,7.95,240,D,2000,SMarket,2.0,F,Y,5000.0
+14,15,Vida D-vitamiinivalmiste D-vitamiini 50 µg ,9.4,200,D,2000,SMarket,2.0,F,Y,5000.0
+15,16,Puridistamo Super vitamin D 100 µg,18.8,120,D,4000,SMarket,2.0,F,Y,5000.0
+16,17,Vida D-vitamiinivalmiste D-vitamiini 100 µg ,7.95,120,D,4000,SMarket,2.0,F,Y,5000.0
+17,18,Vida D-vitamiinivalmiste D-vitamiini 100 µg ,14.95,200,D,4000,SMarket,2.0,M,N,600.0
+18,19,Makrobios D3-vitamiini 50 mcg,3.95,150,D3,2000,SMarket,2.0,M,N,600.0
+19,20,HYVÄN OLON D3-VITAMIINI 100µg vegekaps Via Naturale,5.75,90,D3,4000,SMarket,2.0,M,N,600.0
+20,21,Makrobios D3-vitamiini salmiakki 50mcg ,4.15,150,D3,2000,SMarket,2.0,M,N,600.0
+21,22,Puhdas+ Kasviperäinen D3-vitamiini 50µg ,12.95,60,D3,2000,SMarket,2.0,M,N,600.0
+22,23,Vitatabs D-Caps 100µg D3-vitamiinikapseli,11.95,200,D3,4000,SMarket,3.0,M,Y,7000.0
+23,24,Sana-sol D-Energy D25µg Metsämarjanmakuinen D-vitamiiniporetabletti,2.65,20,D,1000,SMarket,3.0,M,Y,7000.0
+24,25,Puhdas+ Kasviperäinen D3-vitamiini 100 μg,17.95,60,D3,4000,SMarket,3.0,M,Y,7000.0
+25,26,Vire D3-vitamiinivalmiste sitruksenmakuinen purutabletti,2.95,120,D3,800,SMarket,3.0,M,Y,7000.0
+26,27,D-Vita 50 ug salmiakinmakuinen ksylitoli-D3-vitamiinipurutabletti,7.95,200,D3,2000,SMarket,3.0,F,Y,7500.0
+27,29,Vida D-vitamiini 50µg,12.3,240,D,2000,KMarket,2.0,F,Y,5500.0
+28,30,MakroBios D vitamiini,4.75,150,D,2000,KMarket,2.0,F,N,600.0
+29,31,Vida D vitamiini 100ug ,12.65,120,D,4000,KMarket,2.0,M,N,600.0
+30,32,Sana-Sol Vitabons D-vitamiini 25µg Mango,12.6,60,D,1000,KMarket,2.0,F,N,600.0
+31,33,Sana-sol D-vitamiini 50 m.her. purutab,9.85,120,D,2000,KMarket,2.0,F,N,600.0
+32,34,Makrobios Vahva D3-vitamiini appelsiini 100mcg,7.65,150,D3,4000,KMarket,2.0,M,Y,4000.0
+33,35,Vida D-vitamiinivalmiste D-vitamiini 100 µg,17.15,200,D,4000,KMarket,2.0,F,Y,4500.0
+34,36,Vire D3-vitamiinivalmiste sitruksenmakuinen purutabletti 20µg,6.35,120,D3,800,KMarket,2.0,F,Y,4700.0
+35,37,Tolonen D-vitamiini 50µg ,4.75,60,D,2000,KMarket,2.0,M,N,600.0
+36,38,Vitatabs D3-vitamiini 50µg,7.85,120,D3,2000,KMarket,2.0,F,N,600.0
+37,39,Tri Tolonen D-vitamiini 100µg,6.45,60,D,4000,KMarket,2.0,F,N,600.0
+38,40,Vitabalans D-Vita 50ug Ksylitoli -D3 vitamiinipurutabletti,10.8,200,D3,4000,KMarket,2.0,F,Y,600.0
+39,41,Makrobios Vege D3 vitamiini 50mcg,10.79,60,D3,2000,KMarket,2.0,M,Y,600.0
+40,42,Reformi D-vitamiini 50µg,6.19,100,D,2000,KMarket,2.0,F,Y,600.0
+41,43,Pirkka D3-vitamiini 20µg,5.19,120,D3,800,KMarket,2.0,M,Y,600.0
+42,44,Vire D3-vitamiinivalmiste vadelman ja mansikan makuinen purutabletti 50µg,6.79,120,D3,2000,KMarket,2.0,F,N,600.0
+43,45,Pirkka D3-vitamiini 10µg,4.89,120,D3,400,KMarket,2.0,F,N,600.0
+44,46,Puhdistamo Super D-vitamiini 100µg,9.95,60,D,4000,KMarket,2.0,F,N,600.0
+45,47,Sana-sol D-vitamiini 100µg ,9.85,120,D,4000,KMarket,2.0,F,Y,600.0
+46,48,Vida D-vitamiinivalmiste D-vitamiini 50 µg,9.89,100,D,2000,KMarket,2.0,F,Y,600.0
+47,49,Vida D-vitamiinivalmiste D-vitamiini 50 µg,9.95,200,D,2000,KMarket,2.0,F,Y,600.0
+48,50,Puhdas+ Vegan D3-vitamiini 100 µg,17.95,60,D3,4000,KMarket,2.0,F,Y,600.0
+49,51,Vitabalans D-Vita 50ug Ksylitoli D3 vitamiinipurutabletti,10.8,200,D3,2000,KMarket,,,,
+50,52,Makrobios Vahva D3-vitamiini appelsiini 100mcg,7.65,150,D3,4000,KMarket,,,,
+51,53,Vitatabs D3-vitamiini 50µg,7.85,120,D3,2000,KMarket,,,,
+52,54,Vida D-vitamiinivalmiste D-vitamiini 100 µg,13.4,100,D,4000,KMarket,,,,
+53,55,Makrobios Vahva Vege D3 vitamiini 100mcg,16.95,60,D3,4000,KMarket,,,,
+54,56,Lysi D-vitamiini 25µg,13.85,180,D,1000,KMarket,,,,
+55,57,Moomin D-vitamin 10µg ,5.55,100,D,400,KMarket,,,,
+56,58,MINISUN D-VITAMIINI 20 MIKROG TABL,16.9,200,D3,800,Apteekki,,,,
+57,59,MINISUN D-VITAMIINI 20 MIKROG PURUTABL,22.6,300,D3,800,Apteekki,,,,
+58,60,MINISUN D-VITAMIINI 20 MIKROG PURUTABL,11.3,100,D3,800,Apteekki,,,,
+59,61,MINISUN D-VITAMIINI 50 MIKROG PURUTABL,24.6,200,D3,2000,Apteekki,,,,
+60,62,MINISUN D-VITAMIINI 75 MIKROG TABL ,24.6,200,D3,3000,Apteekki,,,,
+61,63,MINISUN D-VITAMIINI 75 MIKROG TABL,15.2,100,D3,3000,Apteekki,,,,
+62,64,BERTIL S VITAMIN D-VITAMIINI 50 MIKROG PURUTABL,11.5,150,D3,2000,Apteekki,,,,
+63,65,MINISUN D-VITAMIINI 50 MIKROG PURUTABL,15.2,100,D3,2000,Apteekki,,,,
+64,66,MINISUN D-VITAMIINI 100 MIKROG PURUTABL,18.0,90,D3,4000,Apteekki,,,,
+65,67,YA D-VITAMIINI 100 MIKROG MAKEUTTAMATON TABL ,19.9,200,D3,4000,Apteekki,,,,
+66,68,MINISUN PEHMOKONNA OMENA D-VITAMIINI JUNIOR PURESKELTAVA,18.9,120,D3,400,Apteekki,,,,
+67,69,BIOTEEKIN SUPER D-VITAMIINI 100 MIKROG KAPS,12.9,60,D,4000,Apteekki,,,,
+68,70,SANA-SOL VITANALLET D-VITAMIINI 10 MIKROG MANSIKKA VADELMA,13.2,60,D,400,Apteekki,,,,
+69,71,KALCIPOS-D MITE TABLETTI,9.56,60,D,200,Apteekki,,,,
+70,72,MINISUN D-VITAMIINI 10 MIKROG PURUTABL,22.5,300,D3,400,Apteekki,,,,
+71,73,YA D-VITAMIINI 20 MIKROG SITRUUNA TABL,19.9,300,D3,800,Apteekki,,,,
+72,74,BERTIL S KASVIPERÄINEN D3-VITAMIINI 20 MIKROG TABL,9.4,100,D3,800,Apteekki,,,,
+73,75,BERTIL S KASVIPERÄINEN D3-VITAMIINI 50 MIKROG TABL,14.2,100,D3,2000,Apteekki,,,,
+74,76,BERTIL S KASVIPERÄINEN D3-VITAMIINI 100 MIKROG TABL,17.9,90,D3,4000,Apteekki,,,,
+75,77,DEVISOL STRONG 50 MIKROG TABLETTI ,15.2,100,D3,2000,Apteekki,,,,
+76,78,PUHDAS+ VEGAN D3-VITAMIINI 100 MIKROG,21.9,60,D3,4000,Apteekki,,,,
+77,79,PUHDAS+ VEGAN D3-VITAMIINI 50 MIKROG KAPS,17.2,60,D3,2000,Apteekki,,,,
+78,80,DEVISOL MUSTIKKA 50 MIKROG IMESKELYTABL ,24.6,200,D3,2000,Apteekki,,,,
+79,81,DEVISOL NEUTRAL 20 MIKROG TABLETTI,17.5,200,D3,800,Apteekki,,,,
+80,82,DEVISOL NEUTRAL 50 MIKROG NIELTÄVÄ,24.6,200,D3,2000,Apteekki,,,,
+81,83,DEVISOL OLIIVIÖLJY 100 MIKROG KAPS,18.9,100,D3,4000,Apteekki,,,,
+82,84,DEVISOL OLIIVIÖLJY 50 MIKROG KAPS,18.9,150,D3,2000,Apteekki,,,,
+83,85,KALCIPOS-D TABLETTI,10.12,60,D,400,Apteekki,,,,
+84,86,KALCIPOS-D FORTE 500MG/20MCG KALVOPÄÄLLYSTEINEN TABLETT,13.59,60,D3,800,Apteekki,,,,
